@@ -2,6 +2,12 @@
 
 > :bulb: Here is a collection of research papers that might be of interest.
 
+## Automation
+
+1. Rename and put downloaded article into categorical folder.
+2. Run `automation/automation.py`.
+3. Add :white_check_mark: `:white_check_mark:` manually while you complete reading an article.
+
 
 ## :file_folder: TAB
 
