@@ -375,6 +375,13 @@
 ![Tags](https://img.shields.io/badge/Brown-green?style=flat)
 [![file](https://img.shields.io/badge/Paper-red?style=flat)](files/NLP/[2020%20@openai%20#gpt3%20Brown]%20Language%20Models%20are%20Few-Shot%20Learners.pdf)
 
+####  WhiteningBERT: An Easy Unsupervised Sentence Embedding Approach
+
+- ![Year](https://img.shields.io/badge/2021-blue?style=flat)
+![Tags](https://img.shields.io/badge/-grey?style=flat)
+![Tags](https://img.shields.io/badge/Huang-green?style=flat)
+[![file](https://img.shields.io/badge/Paper-red?style=flat)](files/NLP/[2021%20Huang]%20WhiteningBERT_An%20Easy%20Unsupervised%20Sentence%20Embedding%20Approach.pdf)
+
 ####  Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing
 
 - ![Year](https://img.shields.io/badge/2021-blue?style=flat)

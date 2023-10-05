@@ -36,6 +36,7 @@ NLP,2019,neurips,Wang,SuperGLUE_A Stickier Benchmark for General-Purpose Languag
 NLP,2019,neurips,Yang,XLNet_Generalized Autoregressive Pretraining for Language Understanding,files/NLP/[2019 @neurips Yang] XLNet_Generalized Autoregressive Pretraining for Language Understanding.pdf,
 NLP,2019,openai,Radford,Language Models are Unsupervised Multitask Learners,files/NLP/[2019 @openai #gpt2 Radford] Language Models are Unsupervised Multitask Learners.pdf,
 NLP,2020,openai,Brown,Language Models are Few-Shot Learners,files/NLP/[2020 @openai #gpt3 Brown] Language Models are Few-Shot Learners.pdf,
+NLP,2021,,Huang,WhiteningBERT_An Easy Unsupervised Sentence Embedding Approach,files/NLP/[2021 Huang] WhiteningBERT_An Easy Unsupervised Sentence Embedding Approach.pdf,
 NLP,2021,,Liu,"Pre-train, Prompt, and Predict_A Systematic Survey of Prompting Methods in Natural Language Processing","files/NLP/[2021 Liu] Pre-train, Prompt, and Predict_A Systematic Survey of Prompting Methods in Natural Language Processing.pdf",
 NLP,2022,google,Chowdhery,PaLM_Scaling Language Modeling with Pathways,files/NLP/[2022 @google Chowdhery] PaLM_Scaling Language Modeling with Pathways.pdf,
 NLP,2022,openai,Ouyang,Training language models to follow instructions with human feedback,files/NLP/[2022 @openai Ouyang] Training language models to follow instructions with human feedback.pdf,
