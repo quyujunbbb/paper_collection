@@ -452,6 +452,13 @@
 ![Tags](https://img.shields.io/badge/Schick-green?style=flat)
 [![file](https://img.shields.io/badge/Paper-red?style=flat)](files/NLP/[2023%20@meta%20Schick]%20Toolformer_Language%20Models%20Can%20Teach%20Themselves%20to%20Use%20Tools.pdf)
 
+####  Effective Long-Context Scaling of Foundation Models
+
+- ![Year](https://img.shields.io/badge/2023-blue?style=flat)
+![Tags](https://img.shields.io/badge/meta-grey?style=flat)
+![Tags](https://img.shields.io/badge/Xiong-green?style=flat)
+[![file](https://img.shields.io/badge/Paper-red?style=flat)](files/NLP/[2023%20@meta%20Xiong]%20Effective%20Long-Context%20Scaling%20of%20Foundation%20Models.pdf)
+
 ####  Retentive Network: A Successor to Transformer for Large Language Models
 
 - ![Year](https://img.shields.io/badge/2023-blue?style=flat)
