@@ -91,6 +91,7 @@ TAB,2023,iclr,Hollmann,TabPFN_A Transformer That Solves Small Tabular Classifica
 TAB,2023,tacl,Badaro,Transformers for Tabular Data Representation_A Survey of Models and Applications,files/TAB/[2023 @tacl Badaro] Transformers for Tabular Data Representation_A Survey of Models and Applications.pdf,:white_check_mark:
 TAB,2023,,Alkhatib,Interpretable Graph Neural Networks for Tabular Data,files/TAB/[2023 Alkhatib] Interpretable Graph Neural Networks for Tabular Data.pdf,
 TAB,2023,,Chen,HYTREL_Hypergraph-enhanced Tabular Data Representation Learning,files/TAB/[2023 Chen] HYTREL_Hypergraph-enhanced Tabular Data Representation Learning.pdf,
+TAB,2023,,Eggert,TabLib_A Dataset of 627M Tables with Context,files/TAB/[2023 Eggert] TabLib_A Dataset of 627M Tables with Context.pdf,
 TAB,2023,,Gorishniy,TabR_Unlocking the Power of Retrieval-Augmented Tabular Deep Learning,files/TAB/[2023 Gorishniy] TabR_Unlocking the Power of Retrieval-Augmented Tabular Deep Learning.pdf,:white_check_mark:
 TAB,2023,,Wang,AnyPredict_Foundation Model for Tabular Prediction,files/TAB/[2023 Wang] AnyPredict_Foundation Model for Tabular Prediction.pdf,
 TAB,2023,,Yang,UniTabE_Pretraining a Unified Tabular Encoder for Heterogeneous Tabular Data,files/TAB/[2023 Yang] UniTabE_Pretraining a Unified Tabular Encoder for Heterogeneous Tabular Data.pdf,
