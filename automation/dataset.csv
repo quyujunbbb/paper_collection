@@ -56,6 +56,7 @@ NLP,2023,,Kaddour,Challenges and Applications of Large Language Models,files/NLP
 NLP,2023,,Patil,Gorilla_Large Language Model Connected with Massive APIs,files/NLP/[2023 Patil] Gorilla_Large Language Model Connected with Massive APIs.pdf,
 NLP,2023,,Yao,Tree of Thoughts_Deliberate Problem Solving with Large Language Models,files/NLP/[2023 Yao] Tree of Thoughts_Deliberate Problem Solving with Large Language Models.pdf,
 NLP,2023,,Yin,A Survey on Multimodal Large Language Models,files/NLP/[2023 Yin] A Survey on Multimodal Large Language Models.pdf,
+NLP,2024,iclr,Sun,Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models,files/NLP/[2024 @iclr Sun] Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models.pdf,
 TAB,2008,,Zeng,Using Predictive Analysis to Improve Invoice-to-Cash Collection,files/TAB/[2008 Zeng] Using Predictive Analysis to Improve Invoice-to-Cash Collection.pdf,
 TAB,2020,acl,Yin,TABERT_Pretraining for Joint Understanding of Textual and Tabular Data,files/TAB/[2020 @acl Yin] TABERT_Pretraining for Joint Understanding of Textual and Tabular Data.pdf,
 TAB,2020,aws,Erickson,AutoGluon-Tabular_Robust and Accurate AutoML for Structured Data,files/TAB/[2020 @aws Erickson] AutoGluon-Tabular_Robust and Accurate AutoML for Structured Data.pdf,
@@ -87,6 +88,7 @@ TAB,2022,neurips_trl,Zein,Tabular Data Generation_Can We Fool XGBoost?,files/TAB
 TAB,2022,nnls,Borisov,Deep Neural Networks and Tabular Data_A Survey,files/TAB/[2022 @nnls Borisov] Deep Neural Networks and Tabular Data_A Survey.pdf,
 TAB,2022,,Rubachev,Revisiting Pretraining Objectives for Tabular Deep Learning,files/TAB/[2022 Rubachev] Revisiting Pretraining Objectives for Tabular Deep Learning.pdf,
 TAB,2023,aistats,Hegselmann,TabLLM_Few-shot Classification of Tabular Data with Large Language Models,files/TAB/[2023 @aistats Hegselmann] TabLLM_Few-shot Classification of Tabular Data with Large Language Models.pdf,:white_check_mark:
+TAB,2023,aws,Zhang,NameGuess_Column Name Expansion for Tabular Data,files/TAB/[2023 @aws Zhang] NameGuess_Column Name Expansion for Tabular Data.pdf,
 TAB,2023,iclr,Hollmann,TabPFN_A Transformer That Solves Small Tabular Classification Problems in a Second,files/TAB/[2023 @iclr Hollmann] TabPFN_A Transformer That Solves Small Tabular Classification Problems in a Second.pdf,
 TAB,2023,tacl,Badaro,Transformers for Tabular Data Representation_A Survey of Models and Applications,files/TAB/[2023 @tacl Badaro] Transformers for Tabular Data Representation_A Survey of Models and Applications.pdf,:white_check_mark:
 TAB,2023,,Alkhatib,Interpretable Graph Neural Networks for Tabular Data,files/TAB/[2023 Alkhatib] Interpretable Graph Neural Networks for Tabular Data.pdf,
