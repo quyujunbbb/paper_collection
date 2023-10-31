@@ -260,7 +260,7 @@
 ####  HYTREL: Hypergraph-enhanced Tabular Data Representation Learning
 
 - ![Year](https://img.shields.io/badge/2023-blue?style=flat)
-![Tags](https://img.shields.io/badge/-grey?style=flat)
+![Tags](https://img.shields.io/badge/neurips-grey?style=flat)
 ![Tags](https://img.shields.io/badge/Chen-green?style=flat)
 [![file](https://img.shields.io/badge/Paper-red?style=flat)](files/TAB/[2023%20Chen]%20HYTREL_Hypergraph-enhanced%20Tabular%20Data%20Representation%20Learning.pdf)
 
@@ -291,6 +291,13 @@
 ![Tags](https://img.shields.io/badge/-grey?style=flat)
 ![Tags](https://img.shields.io/badge/Yang-green?style=flat)
 [![file](https://img.shields.io/badge/Paper-red?style=flat)](files/TAB/[2023%20Yang]%20UniTabE_Pretraining%20a%20Unified%20Tabular%20Encoder%20for%20Heterogeneous%20Tabular%20Data.pdf)
+
+####  Natural Language Interfaces for Tabular Data Querying and Visualization: A Survey
+
+- ![Year](https://img.shields.io/badge/2023-blue?style=flat)
+![Tags](https://img.shields.io/badge/-grey?style=flat)
+![Tags](https://img.shields.io/badge/Zhang-green?style=flat)
+[![file](https://img.shields.io/badge/Paper-red?style=flat)](files/TAB/[2023%20Zhang]%20Natural%20Language%20Interfaces%20for%20Tabular%20Data%20Querying%20and%20Visualization_A%20Survey.pdf)
 
 ####  XTab: Cross-table Pretraining for Tabular Transformers
 
@@ -487,6 +494,13 @@
 ![Tags](https://img.shields.io/badge/OpenAI-green?style=flat)
 [![file](https://img.shields.io/badge/Paper-red?style=flat)](files/NLP/[2023%20@openai%20#gpt4%20OpenAI]%20GPT-4%20Technical%20Report.pdf)
 
+####  The Foundation Model Transparency Index
+
+- ![Year](https://img.shields.io/badge/2023-blue?style=flat)
+![Tags](https://img.shields.io/badge/-grey?style=flat)
+![Tags](https://img.shields.io/badge/Bommasani-green?style=flat)
+[![file](https://img.shields.io/badge/Paper-red?style=flat)](files/NLP/[2023%20Bommasani]%20The%20Foundation%20Model%20Transparency%20Index.pdf)
+
 ####  Learning to Generate Better Than Your LLM
 
 - ![Year](https://img.shields.io/badge/2023-blue?style=flat)
@@ -507,6 +521,13 @@
 ![Tags](https://img.shields.io/badge/-grey?style=flat)
 ![Tags](https://img.shields.io/badge/Patil-green?style=flat)
 [![file](https://img.shields.io/badge/Paper-red?style=flat)](files/NLP/[2023%20Patil]%20Gorilla_Large%20Language%20Model%20Connected%20with%20Massive%20APIs.pdf)
+
+####  In-Context Pretraining: Language Modeling Beyond Document Boundaries
+
+- ![Year](https://img.shields.io/badge/2023-blue?style=flat)
+![Tags](https://img.shields.io/badge/-grey?style=flat)
+![Tags](https://img.shields.io/badge/Shi-green?style=flat)
+[![file](https://img.shields.io/badge/Paper-red?style=flat)](files/NLP/[2023%20Shi]%20In-Context%20Pretraining_Language%20Modeling%20Beyond%20Document%20Boundaries.pdf)
 
 ####  Tree of Thoughts: Deliberate Problem Solving with Large Language Models
 

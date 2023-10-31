@@ -51,9 +51,11 @@ NLP,2023,meta,Schick,Toolformer_Language Models Can Teach Themselves to Use Tool
 NLP,2023,meta,Xiong,Effective Long-Context Scaling of Foundation Models,files/NLP/[2023 @meta Xiong] Effective Long-Context Scaling of Foundation Models.pdf,
 NLP,2023,microsoft,Sun,Retentive Network_A Successor to Transformer for Large Language Models,files/NLP/[2023 @microsoft Sun] Retentive Network_A Successor to Transformer for Large Language Models.pdf,
 NLP,2023,openai,OpenAI,GPT-4 Technical Report,files/NLP/[2023 @openai #gpt4 OpenAI] GPT-4 Technical Report.pdf,
+NLP,2023,,Bommasani,The Foundation Model Transparency Index,files/NLP/[2023 Bommasani] The Foundation Model Transparency Index.pdf,
 NLP,2023,,Chang,Learning to Generate Better Than Your LLM,files/NLP/[2023 Chang] Learning to Generate Better Than Your LLM.pdf,
 NLP,2023,,Kaddour,Challenges and Applications of Large Language Models,files/NLP/[2023 Kaddour] Challenges and Applications of Large Language Models.pdf,
 NLP,2023,,Patil,Gorilla_Large Language Model Connected with Massive APIs,files/NLP/[2023 Patil] Gorilla_Large Language Model Connected with Massive APIs.pdf,
+NLP,2023,,Shi,In-Context Pretraining_Language Modeling Beyond Document Boundaries,files/NLP/[2023 Shi] In-Context Pretraining_Language Modeling Beyond Document Boundaries.pdf,
 NLP,2023,,Yao,Tree of Thoughts_Deliberate Problem Solving with Large Language Models,files/NLP/[2023 Yao] Tree of Thoughts_Deliberate Problem Solving with Large Language Models.pdf,
 NLP,2023,,Yin,A Survey on Multimodal Large Language Models,files/NLP/[2023 Yin] A Survey on Multimodal Large Language Models.pdf,
 NLP,2024,iclr,Sun,Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models,files/NLP/[2024 @iclr Sun] Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models.pdf,
@@ -92,9 +94,10 @@ TAB,2023,aws,Zhang,NameGuess_Column Name Expansion for Tabular Data,files/TAB/[2
 TAB,2023,iclr,Hollmann,TabPFN_A Transformer That Solves Small Tabular Classification Problems in a Second,files/TAB/[2023 @iclr Hollmann] TabPFN_A Transformer That Solves Small Tabular Classification Problems in a Second.pdf,
 TAB,2023,tacl,Badaro,Transformers for Tabular Data Representation_A Survey of Models and Applications,files/TAB/[2023 @tacl Badaro] Transformers for Tabular Data Representation_A Survey of Models and Applications.pdf,:white_check_mark:
 TAB,2023,,Alkhatib,Interpretable Graph Neural Networks for Tabular Data,files/TAB/[2023 Alkhatib] Interpretable Graph Neural Networks for Tabular Data.pdf,
-TAB,2023,,Chen,HYTREL_Hypergraph-enhanced Tabular Data Representation Learning,files/TAB/[2023 Chen] HYTREL_Hypergraph-enhanced Tabular Data Representation Learning.pdf,
+TAB,2023,neurips,Chen,HYTREL_Hypergraph-enhanced Tabular Data Representation Learning,files/TAB/[2023 Chen] HYTREL_Hypergraph-enhanced Tabular Data Representation Learning.pdf,
 TAB,2023,,Eggert,TabLib_A Dataset of 627M Tables with Context,files/TAB/[2023 Eggert] TabLib_A Dataset of 627M Tables with Context.pdf,
 TAB,2023,,Gorishniy,TabR_Unlocking the Power of Retrieval-Augmented Tabular Deep Learning,files/TAB/[2023 Gorishniy] TabR_Unlocking the Power of Retrieval-Augmented Tabular Deep Learning.pdf,:white_check_mark:
 TAB,2023,,Wang,AnyPredict_Foundation Model for Tabular Prediction,files/TAB/[2023 Wang] AnyPredict_Foundation Model for Tabular Prediction.pdf,
 TAB,2023,,Yang,UniTabE_Pretraining a Unified Tabular Encoder for Heterogeneous Tabular Data,files/TAB/[2023 Yang] UniTabE_Pretraining a Unified Tabular Encoder for Heterogeneous Tabular Data.pdf,
+TAB,2023,,Zhang,Natural Language Interfaces for Tabular Data Querying and Visualization_A Survey,files/TAB/[2023 Zhang] Natural Language Interfaces for Tabular Data Querying and Visualization_A Survey.pdf,
 TAB,2023,,Zhu,XTab_Cross-table Pretraining for Tabular Transformers,files/TAB/[2023 Zhu] XTab_Cross-table Pretraining for Tabular Transformers.pdf,
