@@ -396,6 +396,13 @@
 ![Tags](https://img.shields.io/badge/Brown-green?style=flat)
 [![file](https://img.shields.io/badge/Paper-red?style=flat)](files/NLP/[2020%20@openai%20#gpt3%20Brown]%20Language%20Models%20are%20Few-Shot%20Learners.pdf)
 
+####  Case-Based Reasoning for Natural Language Queries over Knowledge Bases
+
+- ![Year](https://img.shields.io/badge/2021-blue?style=flat)
+![Tags](https://img.shields.io/badge/-grey?style=flat)
+![Tags](https://img.shields.io/badge/Das-green?style=flat)
+[![file](https://img.shields.io/badge/Paper-red?style=flat)](files/NLP/[2021%20Das]%20Case-Based%20Reasoning%20for%20Natural%20Language%20Queries%20over%20Knowledge%20Bases.pdf)
+
 ####  WhiteningBERT: An Easy Unsupervised Sentence Embedding Approach
 
 - ![Year](https://img.shields.io/badge/2021-blue?style=flat)
@@ -410,12 +417,26 @@
 ![Tags](https://img.shields.io/badge/Liu-green?style=flat)
 [![file](https://img.shields.io/badge/Paper-red?style=flat)](files/NLP/[2021%20Liu]%20Pre-train,%20Prompt,%20and%20Predict_A%20Systematic%20Survey%20of%20Prompting%20Methods%20in%20Natural%20Language%20Processing.pdf)
 
+####  Improving language models by retrieving from trillions of tokens
+
+- ![Year](https://img.shields.io/badge/2022-blue?style=flat)
+![Tags](https://img.shields.io/badge/deepmind-grey?style=flat)
+![Tags](https://img.shields.io/badge/Borgeaud-green?style=flat)
+[![file](https://img.shields.io/badge/Paper-red?style=flat)](files/NLP/[2022%20@deepmind%20Borgeaud]%20Improving%20language%20models%20by%20retrieving%20from%20trillions%20of%20tokens.pdf)
+
 ####  PaLM: Scaling Language Modeling with Pathways
 
 - ![Year](https://img.shields.io/badge/2022-blue?style=flat)
 ![Tags](https://img.shields.io/badge/google-grey?style=flat)
 ![Tags](https://img.shields.io/badge/Chowdhery-green?style=flat)
 [![file](https://img.shields.io/badge/Paper-red?style=flat)](files/NLP/[2022%20@google%20Chowdhery]%20PaLM_Scaling%20Language%20Modeling%20with%20Pathways.pdf)
+
+####  Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data
+
+- ![Year](https://img.shields.io/badge/2022-blue?style=flat)
+![Tags](https://img.shields.io/badge/microsoft-grey?style=flat)
+![Tags](https://img.shields.io/badge/Wang-green?style=flat)
+[![file](https://img.shields.io/badge/Paper-red?style=flat)](files/NLP/[2022%20@microsoft%20Wang]%20Training%20Data%20is%20More%20Valuable%20than%20You%20Think_A%20Simple%20and%20Effective%20Method%20by%20Retrieving%20from%20Training%20Data.pdf)
 
 ####  Training language models to follow instructions with human feedback
 
