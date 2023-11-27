@@ -822,6 +822,13 @@
 ![Tags](https://img.shields.io/badge/Zhang-green?style=flat)
 [![file](https://img.shields.io/badge/Paper-red?style=flat)](files/KG/[2020%20Zhang]%20Deep%20Learning%20on%20Graphs_A%20Survey.pdf)
 
+####  QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering
+
+- ![Year](https://img.shields.io/badge/2021-blue?style=flat)
+![Tags](https://img.shields.io/badge/naacl-grey?style=flat)
+![Tags](https://img.shields.io/badge/Yasunaga-green?style=flat)
+[![file](https://img.shields.io/badge/Paper-red?style=flat)](files/KG/[2021%20@naacl%20Yasunaga]%20QA-GNN_Reasoning%20with%20Language%20Models%20and%20Knowledge%20Graphs%20for%20Question%20Answering.pdf)
+
 ####  A Gentle Introduction to Graph Neural Networks
 
 - ![Year](https://img.shields.io/badge/2021-blue?style=flat)
