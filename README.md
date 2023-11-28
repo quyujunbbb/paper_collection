@@ -236,6 +236,13 @@
 ![Tags](https://img.shields.io/badge/Hegselmann-green?style=flat)
 [![file](https://img.shields.io/badge/Paper-red?style=flat)](files/TAB/[2023%20@aistats%20Hegselmann]%20TabLLM_Few-shot%20Classification%20of%20Tabular%20Data%20with%20Large%20Language%20Models.pdf)
 
+####  Pretrained deep models outperform GBDTs in Learning-To-Rank under label scarcity
+
+- ![Year](https://img.shields.io/badge/2023-blue?style=flat)
+![Tags](https://img.shields.io/badge/aws-grey?style=flat)
+![Tags](https://img.shields.io/badge/Hou-green?style=flat)
+[![file](https://img.shields.io/badge/Paper-red?style=flat)](files/TAB/[2023%20@aws%20Hou]%20Pretrained%20deep%20models%20outperform%20GBDTs%20in%20Learning-To-Rank%20under%20label%20scarcity.pdf)
+
 ####  NameGuess: Column Name Expansion for Tabular Data
 
 - ![Year](https://img.shields.io/badge/2023-blue?style=flat)
@@ -263,6 +270,13 @@
 ![Tags](https://img.shields.io/badge/iclr-grey?style=flat)
 ![Tags](https://img.shields.io/badge/Hollmann-green?style=flat)
 [![file](https://img.shields.io/badge/Paper-red?style=flat)](files/TAB/[2023%20@iclr%20Hollmann]%20TabPFN_A%20Transformer%20That%20Solves%20Small%20Tabular%20Classification%20Problems%20in%20a%20Second.pdf)
+
+####  GPT4Table: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study
+
+- ![Year](https://img.shields.io/badge/2023-blue?style=flat)
+![Tags](https://img.shields.io/badge/microsoft-grey?style=flat)
+![Tags](https://img.shields.io/badge/Sui-green?style=flat)
+[![file](https://img.shields.io/badge/Paper-red?style=flat)](files/TAB/[2023%20@microsoft%20Sui]%20GPT4Table_Can%20Large%20Language%20Models%20Understand%20Structured%20Table%20Data?%20A%20Benchmark%20and%20Empirical%20Study.pdf)
 
 ####  HyperFast: Instant Classification for Tabular Data
 
@@ -425,6 +439,13 @@
 ![Tags](https://img.shields.io/badge/Chen-green?style=flat)
 [![file](https://img.shields.io/badge/Paper-red?style=flat)](files/TAB/[2023%20Chen]%20HYTREL_Hypergraph-enhanced%20Tabular%20Data%20Representation%20Learning.pdf)
 
+####  A Performance-Driven Benchmark for Feature Selection in Tabular Deep Learning
+
+- ![Year](https://img.shields.io/badge/2023-blue?style=flat)
+![Tags](https://img.shields.io/badge/-grey?style=flat)
+![Tags](https://img.shields.io/badge/Cherepanova-green?style=flat)
+[![file](https://img.shields.io/badge/Paper-red?style=flat)](files/TAB/[2023%20Cherepanova]%20A%20Performance-Driven%20Benchmark%20for%20Feature%20Selection%20in%20Tabular%20Deep%20Learning.pdf)
+
 ####  TabLib: A Dataset of 627M Tables with Context
 
 - ![Year](https://img.shields.io/badge/2023-blue?style=flat)
@@ -438,6 +459,13 @@
 ![Tags](https://img.shields.io/badge/-grey?style=flat)
 ![Tags](https://img.shields.io/badge/Gorishniy-green?style=flat)
 [![file](https://img.shields.io/badge/Paper-red?style=flat)](files/TAB/[2023%20Gorishniy]%20TabR_Unlocking%20the%20Power%20of%20Retrieval-Augmented%20Tabular%20Deep%20Learning.pdf)
+
+####  Classification of Tabular Data by Text Processing
+
+- ![Year](https://img.shields.io/badge/2023-blue?style=flat)
+![Tags](https://img.shields.io/badge/-grey?style=flat)
+![Tags](https://img.shields.io/badge/Ramani-green?style=flat)
+[![file](https://img.shields.io/badge/Paper-red?style=flat)](files/TAB/[2023%20Ramani]%20Classification%20of%20Tabular%20Data%20by%20Text%20Processing.pdf)
 
 ####  AnyPredict: Foundation Model for Tabular Prediction
 
