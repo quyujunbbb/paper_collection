@@ -2,7 +2,7 @@
 Paper Vault
 </h1>
 <p align="center">
-This repository comprises a collection of research articles relevant to natural language processing, deep tabular models, knowledge graphs, and general exploitation. :bulb: Please feel free to create a PR if you come across any interesting papers. :raised_hands:
+:bulb: This repository comprises a collection of research articles relevant to *natural language processing*, *deep tabular models*, *knowledge graphs*, and *general AI topics*. Please feel free to create a PR if you come across any interesting papers. :raised_hands:
 </p>
 
 
