@@ -161,6 +161,11 @@ Paper Vault
   - ![year](https://img.shields.io/badge/year-2022-green?style=flat)
     ![auth](https://img.shields.io/badge/author-Rubachev-blue?style=flat)
     [![file](https://img.shields.io/badge/File-red?style=flat)](./files/TAB/[2022%20Rubachev]%20Revisiting%20Pretraining%20Objectives%20for%20Tabular%20Deep%20Learning.pdf)
+- [ ] An Inner Table Retriever for Robust Table Question Answering
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Lin-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/TAB/[2023%20@acl%20Lin]%20An%20Inner%20Table%20Retriever%20for%20Robust%20Table%20Question%20Answering.pdf)
+    ![tags](https://img.shields.io/badge/tag-acl-lightgrey?style=flat)
 - [x] TabLLM: Few-shot Classification of Tabular Data with Large Language Models
   - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
     ![auth](https://img.shields.io/badge/author-Hegselmann-blue?style=flat)
@@ -180,6 +185,36 @@ Paper Vault
   - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
     ![auth](https://img.shields.io/badge/author-Akhtar-blue?style=flat)
     [![file](https://img.shields.io/badge/File-red?style=flat)](./files/TAB/[2023%20@emnlp%20Akhtar]%20Exploring%20the%20Numerical%20Reasoning%20Capabilities%20of%20Language%20Models_A%20Comprehensive%20Analysis%20on%20Tabular%20Data.pdf)
+    ![tags](https://img.shields.io/badge/tag-emnlp-lightgrey?style=flat)
+- [ ] API-Assisted Code Generation for Question Answering on Varied Table Structures
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Cao-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/TAB/[2023%20@emnlp%20Cao]%20API-Assisted%20Code%20Generation%20for%20Question%20Answering%20on%20Varied%20Table%20Structures.pdf)
+    ![tags](https://img.shields.io/badge/tag-emnlp-lightgrey?style=flat)
+- [ ] ReTAG: Reasoning Aware Table to Analytic Text Generation
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Ghosal-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/TAB/[2023%20@emnlp%20Ghosal]%20ReTAG_Reasoning%20Aware%20Table%20to%20Analytic%20Text%20Generation.pdf)
+    ![tags](https://img.shields.io/badge/tag-emnlp-lightgrey?style=flat)
+- [ ] TEMPTABQA: Temporal Question Answering for Semi-Structured Tables
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Gupta-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/TAB/[2023%20@emnlp%20Gupta]%20TEMPTABQA_Temporal%20Question%20Answering%20for%20Semi-Structured%20Tables.pdf)
+    ![tags](https://img.shields.io/badge/tag-emnlp-lightgrey?style=flat)
+- [ ] S2abEL: A Dataset for Entity Linking from Scientific Tables
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Lou-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/TAB/[2023%20@emnlp%20Lou]%20S2abEL_A%20Dataset%20for%20Entity%20Linking%20from%20Scientific%20Tables.pdf)
+    ![tags](https://img.shields.io/badge/tag-emnlp-lightgrey?style=flat)
+- [ ] SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Lu-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/TAB/[2023%20@emnlp%20Lu]%20SCITAB_A%20Challenging%20Benchmark%20for%20Compositional%20Reasoning%20and%20Claim%20Verification%20on%20Scientific%20Tables.pdf)
+    ![tags](https://img.shields.io/badge/tag-emnlp-lightgrey?style=flat)
+- [ ] Generative Table Pre-training Empowers Models for Tabular Prediction
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Zhang-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/TAB/[2023%20@emnlp%20Zhang]%20Generative%20Table%20Pre-training%20Empowers%20Models%20for%20Tabular%20Prediction.pdf)
     ![tags](https://img.shields.io/badge/tag-emnlp-lightgrey?style=flat)
 - [ ] QTSumm: Query-Focused Summarization over Tabular Data
   - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
@@ -310,6 +345,10 @@ Paper Vault
   - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
     ![auth](https://img.shields.io/badge/author-Alkhatib-blue?style=flat)
     [![file](https://img.shields.io/badge/File-red?style=flat)](./files/TAB/[2023%20Alkhatib]%20Interpretable%20Graph%20Neural%20Networks%20for%20Tabular%20Data.pdf)
+- [ ] Privacy Measurement in Tabular Synthetic Data: State of the Art and Future Research Directions
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Boudewijn-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/TAB/[2023%20Boudewijn]%20Privacy%20Measurement%20in%20Tabular%20Synthetic%20Data_State%20of%20the%20Art%20and%20Future%20Research%20Directions.pdf)
 - [ ] A Performance-Driven Benchmark for Feature Selection in Tabular Deep Learning
   - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
     ![auth](https://img.shields.io/badge/author-Cherepanova-blue?style=flat)
@@ -322,6 +361,10 @@ Paper Vault
   - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
     ![auth](https://img.shields.io/badge/author-Gorishniy-blue?style=flat)
     [![file](https://img.shields.io/badge/File-red?style=flat)](./files/TAB/[2023%20Gorishniy]%20TabR_Unlocking%20the%20Power%20of%20Retrieval-Augmented%20Tabular%20Deep%20Learning.pdf)
+- [ ] SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Lu-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/TAB/[2023%20Lu]%20SCITAB_A%20Challenging%20Benchmark%20for%20Compositional%20Reasoning%20and%20Claim%20Verification%20on%20Scientific%20Tables.pdf)
 - [ ] Classification of Tabular Data by Text Processing
   - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
     ![auth](https://img.shields.io/badge/author-Ramani-blue?style=flat)
@@ -447,10 +490,35 @@ Paper Vault
     ![auth](https://img.shields.io/badge/author-Ouyang-blue?style=flat)
     [![file](https://img.shields.io/badge/File-red?style=flat)](./files/NLP/[2022%20@openai%20Ouyang]%20Training%20language%20models%20to%20follow%20instructions%20with%20human%20feedback.pdf)
     ![tags](https://img.shields.io/badge/tag-openai-lightgrey?style=flat)
+- [ ] Memorisation Cartography: Mapping out the Memorisation-Generalisation Continuum in Neural Machine Translation
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Dankers-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/NLP/[2023%20@emnlp%20Dankers]%20Memorisation%20Cartography_Mapping%20out%20the%20Memorisation-Generalisation%20Continuum%20in%20Neural%20Machine%20Translation.pdf)
+    ![tags](https://img.shields.io/badge/tag-emnlp-lightgrey?style=flat)
+- [ ] Stop Uploading Test Data in Plain Text: Practical Strategies for Mitigating Data Contamination by Evaluation Benchmarks
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Jacovi-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/NLP/[2023%20@emnlp%20Jacovi]%20Stop%20Uploading%20Test%20Data%20in%20Plain%20Text_Practical%20Strategies%20for%20Mitigating%20Data%20Contamination%20by%20Evaluation%20Benchmarks.pdf)
+    ![tags](https://img.shields.io/badge/tag-emnlp-lightgrey?style=flat)
+- [ ] G-EVAL: NLG Evaluation using GPT-4 with Better Human Alignment
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Liu-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/NLP/[2023%20@emnlp%20Liu]%20G-EVAL_NLG%20Evaluation%20using%20GPT-4%20with%20Better%20Human%20Alignment.pdf)
+    ![tags](https://img.shields.io/badge/tag-emnlp-lightgrey?style=flat)
+- [ ] Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Wang-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/NLP/[2023%20@emnlp%20Wang]%20Label%20Words%20are%20Anchors_An%20Information%20Flow%20Perspective%20for%20Understanding%20In-Context%20Learning.pdf)
+    ![tags](https://img.shields.io/badge/tag-emnlp-lightgrey?style=flat)
 - [ ] Large Language Models as Tool Makers
   - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
     ![auth](https://img.shields.io/badge/author-Cai-blue?style=flat)
     [![file](https://img.shields.io/badge/File-red?style=flat)](./files/NLP/[2023%20@google%20Cai]%20Large%20Language%20Models%20as%20Tool%20Makers.pdf)
+    ![tags](https://img.shields.io/badge/tag-google-lightgrey?style=flat)
+- [ ] Gemini: A Family of Highly Capable Multimodal Models
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Google-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/NLP/[2023%20@google%20Google]%20Gemini_A%20Family%20of%20Highly%20Capable%20Multimodal%20Models.pdf)
     ![tags](https://img.shields.io/badge/tag-google-lightgrey?style=flat)
 - [ ] RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback
   - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
@@ -492,6 +560,11 @@ Paper Vault
     ![auth](https://img.shields.io/badge/author-Sun-blue?style=flat)
     [![file](https://img.shields.io/badge/File-red?style=flat)](./files/NLP/[2023%20@microsoft%20Sun]%20Retentive%20Network_A%20Successor%20to%20Transformer%20for%20Large%20Language%20Models.pdf)
     ![tags](https://img.shields.io/badge/tag-microsoft-lightgrey?style=flat)
+- [ ] ResMem: Learn what you can and memorize the rest
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Yang-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/NLP/[2023%20@neurips%20Yang]%20ResMem_Learn%20what%20you%20can%20and%20memorize%20the%20rest.pdf)
+    ![tags](https://img.shields.io/badge/tag-neurips-lightgrey?style=flat)
 - [ ] GPT-4 Technical Report
   - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
     ![auth](https://img.shields.io/badge/author-OpenAI-blue?style=flat)
@@ -505,14 +578,38 @@ Paper Vault
   - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
     ![auth](https://img.shields.io/badge/author-Chang-blue?style=flat)
     [![file](https://img.shields.io/badge/File-red?style=flat)](./files/NLP/[2023%20Chang]%20Learning%20to%20Generate%20Better%20Than%20Your%20LLM.pdf)
+- [ ] ChatGPT's One-year Anniversary: Are Open-Source Large Language Models Catching up
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Chen-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/NLP/[2023%20Chen]%20ChatGPT's%20One-year%20Anniversary_Are%20Open-Source%20Large%20Language%20Models%20Catching%20up.pdf)
+- [ ] News Summarization and Evaluation in the Era of GPT-3
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Goyal-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/NLP/[2023%20Goyal]%20News%20Summarization%20and%20Evaluation%20in%20the%20Era%20of%20GPT-3.pdf)
+- [ ] AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-He-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/NLP/[2023%20He]%20AnnoLLM_Making%20Large%20Language%20Models%20to%20Be%20Better%20Crowdsourced%20Annotators.pdf)
 - [ ] Challenges and Applications of Large Language Models
   - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
     ![auth](https://img.shields.io/badge/author-Kaddour-blue?style=flat)
     [![file](https://img.shields.io/badge/File-red?style=flat)](./files/NLP/[2023%20Kaddour]%20Challenges%20and%20Applications%20of%20Large%20Language%20Models.pdf)
+- [ ] CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Li-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/NLP/[2023%20Li]%20CoAnnotating_Uncertainty-Guided%20Work%20Allocation%20between%20Human%20and%20Large%20Language%20Models%20for%20Data%20Annotation.pdf)
+- [ ] Adapt in Contexts: Retrieval-Augmented Domain Adaptation via In-Context Learning
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Long-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/NLP/[2023%20Long]%20Adapt%20in%20Contexts_Retrieval-Augmented%20Domain%20Adaptation%20via%20In-Context%20Learning.pdf)
 - [ ] Gorilla: Large Language Model Connected with Massive APIs
   - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
     ![auth](https://img.shields.io/badge/author-Patil-blue?style=flat)
     [![file](https://img.shields.io/badge/File-red?style=flat)](./files/NLP/[2023%20Patil]%20Gorilla_Large%20Language%20Model%20Connected%20with%20Massive%20APIs.pdf)
+- [ ] On Second Thought, Let’s Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Shaikh-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/NLP/[2023%20Shaikh]%20On%20Second%20Thought,%20Let’s%20Not%20Think%20Step%20by%20Step!%20Bias%20and%20Toxicity%20in%20Zero-Shot%20Reasoning.pdf)
 - [ ] In-Context Pretraining: Language Modeling Beyond Document Boundaries
   - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
     ![auth](https://img.shields.io/badge/author-Shi-blue?style=flat)
@@ -629,6 +726,11 @@ Paper Vault
 ## :newspaper_roll: DOX
 
 <!-- AUTOGENERATED_DOX -->
+- [ ] DocumentNet: Bridging the Data Gap in Document Pre-Training
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Yu-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/DOX/[2023%20@emnlp%20Yu]%20DocumentNet_Bridging%20the%20Data%20Gap%20in%20Document%20Pre-Training.pdf)
+    ![tags](https://img.shields.io/badge/tag-emnlp-lightgrey?style=flat)
 - [ ] Nougat: Neural Optical Understanding for Academic Documents
   - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
     ![auth](https://img.shields.io/badge/author-Blecher-blue?style=flat)
@@ -638,6 +740,10 @@ Paper Vault
   - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
     ![auth](https://img.shields.io/badge/author-Han-blue?style=flat)
     [![file](https://img.shields.io/badge/File-red?style=flat)](./files/DOX/[2023%20Han]%20ChartLlama_A%20Multimodal%20LLM%20for%20Chart%20Understanding%20and%20Generation.pdf)
+- [ ] UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Masry-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/DOX/[2023%20Masry]%20UniChart_A%20Universal%20Vision-language%20Pretrained%20Model%20for%20Chart%20Comprehension%20and%20Reasoning.pdf)
 <!-- AUTOGENERATED_DOX -->
 
 
@@ -649,6 +755,11 @@ Paper Vault
     ![auth](https://img.shields.io/badge/author-Gururangan-blue?style=flat)
     [![file](https://img.shields.io/badge/File-red?style=flat)](./files/ML/[2020%20@acl%20Gururangan]%20Don't%20Stop%20Pretraining_Adapt%20Language%20Models%20to%20Domains%20and%20Tasks.pdf)
     ![tags](https://img.shields.io/badge/tag-acl-lightgrey?style=flat)
+- [ ] Generalization through Memorization: Nearest Neighbor Language Models
+  - ![year](https://img.shields.io/badge/year-2020-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Khandelwal-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/ML/[2020%20@iclr%20Khandelwal]%20Generalization%20through%20Memorization_Nearest%20Neighbor%20Language%20Models.pdf)
+    ![tags](https://img.shields.io/badge/tag-iclr-lightgrey?style=flat)
 - [ ] Simplifying Transformer Blocks
   - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
     ![auth](https://img.shields.io/badge/author-He-blue?style=flat)
@@ -678,6 +789,10 @@ Paper Vault
     ![auth](https://img.shields.io/badge/author-Merantix-blue?style=flat)
     [![file](https://img.shields.io/badge/File-red?style=flat)](./files/UNSORTED/[2023%20@sap%20Merantix]%20Towards%20Tabular%20Foundation%20Models.pdf)
     ![tags](https://img.shields.io/badge/tag-sap-lightgrey?style=flat)
+- [ ] Sequential Modeling Enables Scalable Learning for Large Vision Models
+  - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Bai-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/UNSORTED/[2023%20Bai]%20Sequential%20Modeling%20Enables%20Scalable%20Learning%20for%20Large%20Vision%20Models.pdf)
 - [ ] iTransformer: Inverted Transformers Are Effective for Time Series Forecasting
   - ![year](https://img.shields.io/badge/year-2023-green?style=flat)
     ![auth](https://img.shields.io/badge/author-Liu-blue?style=flat)
